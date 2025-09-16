@@ -1,3 +1,3 @@
 # project 
 
-AI Assistant using OPenAI.
+AI Assistant using OPenAI..
